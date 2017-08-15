@@ -1,0 +1,2 @@
+# wicked
+mi primer repositorio 
